@@ -6,6 +6,5 @@ src = "src"
 title = "Thoughts and Reflections"
 
 [output.html]
-default-theme = "latte"
-preferred-dark-theme = "frappe"
-additional-css = ["./theme/catppuccin.css"]
+mathjax-support = true
+git-repository-url = "https://github.com/Carlos12001/thoughts-and-reflections"
