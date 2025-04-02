@@ -1,0 +1,11 @@
+[book]
+authors = ["Carlos12001"]
+language = "en"
+multilingual = true
+src = "src"
+title = "Thoughts and Reflections"
+
+[output.html]
+default-theme = "latte"
+preferred-dark-theme = "frappe"
+additional-css = ["./theme/catppuccin.css"]
